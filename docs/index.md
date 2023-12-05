@@ -1,5 +1,6 @@
 ---
 share: true
+author: gary leeming
 ---
 Testing the obsidian git to see if pulls down changes
 
